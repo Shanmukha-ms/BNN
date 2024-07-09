@@ -2,6 +2,9 @@
 
 This repository contains the implementation of a Binary Neural Network (BNN) using PyTorch, trained on the MNIST dataset. BNNs significantly reduce memory usage and computational complexity by binarizing weights and activations, making them ideal for deployment on resource-constrained devices.
 
+Follow the YT video for the tutorial.
+https://youtu.be/Ji6_O0UoebI
+
 ## Introduction
 
 Binary Neural Networks (BNNs) are a type of neural network where the weights and activations are constrained to binary values, typically -1 and +1. This repository provides a step-by-step implementation of BNNs, including key techniques like the Straight-Through Estimator (STE) for training.
